@@ -1,0 +1,11 @@
+WE ARE GROUP NUMER 07 CSN 01
+all  assignment is combined in one folder 
+GROUP MEMBERS
+1	HAITHAM MBAROUK ALI                30961/T.2023
+2	VAILETH JOHN LUPEMBE               30278/T.2023
+3	HABIRI JOSEPH	                      30348/T.2023
+4	GRAYSON JORAM NGOWI                 31520/T.2023
+5	MORISI    JONAS   CHARLES           32262/T.2023
+6	CAROLINE PAUL SHAYO                  0694/T.2023
+7	IBRAHIM MRISHO SULIMAN	             28935/T.2022
+
